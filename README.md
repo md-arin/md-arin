@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks, myself Arin! <img src="https://i.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.webp" width="70" height= "40"></h1>
+<h1 align="center">Hi folks, myself Arin! <img src="https://i.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.webp" width="60" height= "60"></h1>
 
 - 🔭 I’m currently pursuing Bacelors in Computer Application
 - 🌱 I’m currently Mastering Front-end technologies.
