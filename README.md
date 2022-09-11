@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks, myself Arin! <img src="https://i.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.webp" width="80" height= "80"></h1>
+<h1 align="center">Hi folks, myself Arin! <img src="https://i.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.webp" width="50"></h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-arin&label=Profile%20views&color=2b9348&style=for-the-badge" alt="md-arin" /> </p>
 
