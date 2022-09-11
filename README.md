@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi folks, myself Arin! <iframe src="https://giphy.com/embed/xUOwGiewfQAm3tcIA8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/headspace-hello-xUOwGiewfQAm3tcIA8">via GIPHY</a></p>" width="50"></h1>
+
 - 🔭 I’m currently pursuing Bacelors in Computer Application
 - 🌱 I’m currently Mastering Front-end technologies.
 - 📫 How to reach me: alamlew@gmail.com
