@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently <strong>Learning Backend Technologies.</strong>
  
-- 🎯 2022 Goals: Being able to create a Full Stack web application using MERN stack.
+- 🎯 2022 Goals: Having a Decent Knowledge in Full Stack Development and being a active Open source Contributor.
  
 - 🤝🏼 I’m looking to collaborate on Real-world projects and Learn more by Developing.
 
