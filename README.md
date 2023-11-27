@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="350" height="400">
 
-- ✨ I’m currently pursuing Bacelors in Computer Application.
+- ✨ I have pursued Bacelors in Computer Application.
  
 - 🌱 I’m currently <strong>Learning Backend Technologies.</strong>
  
