@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently <strong>Learning Backend Technologies.</strong>
  
-- 🎯 2023 Goals: Having a Decent Knowledge in Full Stack Development.
+- 🎯 2024 Goals: Having a Decent Knowledge in Full Stack Development.
  
 - 🤝🏼 I’m looking to collaborate on Real-world projects and Learn more by Developing.
 
