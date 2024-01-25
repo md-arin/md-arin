@@ -1,6 +1,6 @@
 <h1 align="center">Hi folks, myself Arin! <img src="https://i.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.webp" width="60"></h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-arin&label=Profile%20views&color=2b9348&style=for-the-badge" alt="md-arin" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=md-arin&icon=5&color=8" alt="md-arin" /> </p>
 
 <img align="right" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="350" height="400">
 
@@ -28,11 +28,24 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-arin&show_icons=true&locale=en" alt="md-arin" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=md-arin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=md-arin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-arin&show_icons=true&locale=en&layout=compact" alt="md-arin" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-arin&" alt="md-arin" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=md-arin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **md-arin/md-arin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
