@@ -6,7 +6,7 @@
 
 - ✨ I have pursued Bacelors in Computer Application.
  
-- 🌱 I’m currently <strong>Learning Backend Technologies.</strong>
+- 🌱 I’m currently <strong>Learning Advanced Backend Technologies & System design.</strong>
  
 - 🎯 2024 Goals: Having a Decent Knowledge in Full Stack Development.
  
